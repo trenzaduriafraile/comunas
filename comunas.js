@@ -1032,123 +1032,123 @@ var comunas = {
 		"regionNumero": "VIII"
 	},
 	"Ancud": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Calbuco": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Castro": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Chaitén": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Chonchi": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Cochamó": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Curaco de Vélez": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Dalcahue": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Fresia": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Frutillar": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Futaleufú": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Hualaihué": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Llanquihue": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Los Muermos": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Maullín": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Osorno": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Palena": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Puerto Montt": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Puerto Octay": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Puerto Varas": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Puqueldón": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Purranque": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Puyehue": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Queilén": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Quellón": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Quemchi": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Quinchao": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Río Negro": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"San Juan de la Costa": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"San Pablo": {
-		"region": "Lagos",
+		"region": "Los Lagos",
 		"regionNumero": "X"
 	},
 	"Aysén": {
@@ -1236,51 +1236,51 @@ var comunas = {
 		"regionNumero": "XII"
 	},
 	"Corral": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Futrono": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"La Unión": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Lago Ranco": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Lanco": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Los Lagos": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Mariquina": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Máfil": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Paillaco": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Panguipulli": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Río Bueno": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Valdivia": {
-		"region": "Ríos",
+		"region": "Los Ríos",
 		"regionNumero": "XIV"
 	},
 	"Arica": {
